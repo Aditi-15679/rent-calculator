@@ -1,6 +1,6 @@
-# 🏠 Room Rent Splitter – Python Utility
+ # 🧮 Rent Calculator – Python Utility
 
-A simple and beginner-friendly Python program to split monthly rent and utilities fairly among roommates living in a shared villa, hostel, or flat.
+A simple and beginner-friendly Python program to calculate and split monthly rent, food, and electricity expenses among roommates living in a shared hostel, villa, or flat.
 
 ---
 
@@ -14,7 +14,7 @@ A simple and beginner-friendly Python program to split monthly rent and utilitie
 
 ---
 
-## 🧮 Output
+## 🧾 Output
 
 - The *total amount* each person needs to pay
 
@@ -23,21 +23,21 @@ A simple and beginner-friendly Python program to split monthly rent and utilitie
 ## 🚀 How to Run
 
 1. Make sure Python is installed on your system.
-2. Save the code in a file named room_rent_splitter.py
+2. Save the code in a file named rent_calculator.py
 3. Open terminal in that folder.
 4. Run the command:
 
 bash
-python room_rent_splitter.py
+python rent_calculator.py
 
 
 ---
 
 ## 📁 Project Structure
 
-room-rent-splitter/  
-├── room_rent_splitter.py   # Main Python file  
-└── README.md               # Project documentation
+rent-calculator/  
+├── rent_calculator.py   # Main Python file  
+└── README.md            # Project documentation
 
 ---
 
@@ -45,3 +45,4 @@ room-rent-splitter/
 
 Created  by Aditi 💚  
 Part of my Python learning journey.
+ 
